@@ -1,3 +1,3 @@
 variable "bucketname" {
-  default = "myterraformproject2024"
+  default = "charanwebsite"
 }
